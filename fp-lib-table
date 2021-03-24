@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Connector_Blade)(type KiCad)(uri ${KIPRJMOD}/Connector_Blade.pretty)(options "")(descr ""))
+  (lib (name Connector_FPC_2.54mm)(type KiCad)(uri ${KIPRJMOD}/Connector_FPC_2.54mm.pretty)(options "")(descr ""))
+  (lib (name Button_Switch_THT_narrow)(type KiCad)(uri ${KIPRJMOD}/Button_Switch_THT_narrow.pretty)(options "")(descr ""))
+)
