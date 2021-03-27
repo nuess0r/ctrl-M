@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Model M Controller based on STM32F072"
-Date "2021-03-24"
+Date "2021-03-27"
 Rev "1.0"
 Comp "nuess0r"
 Comment1 "Licensed under CERN-OHL-S"
@@ -44,17 +44,6 @@ F 1 "4.7u" H 3600 1450 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 3538 1400 50  0001 C CNN
 F 3 "~" H 3500 1550 50  0001 C CNN
 	1    3500 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Regulator_Linear:LD1117S33TR_SOT223 U2
-U 1 1 5F72E7C7
-P 4300 1300
-F 0 "U2" H 4300 1542 50  0000 C CNN
-F 1 "LD1117S33TR_SOT223" H 4300 1451 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 4300 1500 50  0001 C CNN
-F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf" H 4400 1050 50  0001 C CNN
-	1    4300 1300
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1279,4 +1268,15 @@ Wire Bus Line
 	4700 3350 4700 6200
 Wire Bus Line
 	9400 850  9400 2500
+$Comp
+L Regulator_Linear:HT75xx-1-SOT89 U2
+U 1 1 606051D6
+P 4300 1400
+F 0 "U2" H 4300 1767 50  0000 C CNN
+F 1 "XC6206P332PR" H 4300 1676 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-89-3" H 4300 1725 50  0001 C CIN
+F 3 "https://www.torexsemi.com/file/xc6206/XC6206.pdf" H 4300 1500 50  0001 C CNN
+	1    4300 1400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

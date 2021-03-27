@@ -1,10 +1,10 @@
-### Module positions - created on Thu Mar 18 23:48:53 2021 ###
+### Module positions - created on Sat Mar 27 23:51:33 2021 ###
 ### Printed by Pcbnew version kicad 5.1.9+dfsg1-1
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref     Val                        Package                         PosX       PosY       Rot  Side
-C1        4.7u                       C_0805_2012Metric           109.6610  -101.2030  270.0000  bottom
-C2        100n                       C_0603_1608Metric           112.2010  -101.2030  270.0000  bottom
+C1        4.7u                       C_0805_2012Metric           116.3700  -100.2690   90.0000  bottom
+C2        100n                       C_0603_1608Metric           118.3700  -100.1690   90.0000  bottom
 C3        4.7u                       C_0805_2012Metric           126.3650  -103.3295  270.0000  bottom
 C4        100n                       C_0603_1608Metric           123.3200   -92.0915  270.0000  bottom
 C5        100n                       C_0603_1608Metric           131.9240   -86.5015   90.0000  bottom
@@ -12,13 +12,13 @@ C6        100n                       C_0603_1608Metric           134.3240  -101.
 C7        100n                       C_0603_1608Metric           124.7775   -94.4625   90.0000  bottom
 C8        10n                        C_0603_1608Metric           138.8110   -89.0015   90.0000  bottom
 R1        1k                         R_0603_1608Metric           108.7280   -81.7705   90.0000  bottom
-R2        150                        R_0603_1608Metric           174.7745   -98.6790  270.0000  bottom
-R3        150                        R_0603_1608Metric           178.0765   -97.5360  270.0000  bottom
-R4        150                        R_0603_1608Metric           179.6640   -99.1870  270.0000  bottom
+R2        120                        R_0603_1608Metric           174.7745   -98.6790  270.0000  bottom
+R3        120                        R_0603_1608Metric           178.0765   -97.5360  270.0000  bottom
+R4        120                        R_0603_1608Metric           179.6640   -99.1870  270.0000  bottom
 REF1      Fiducial_0.75mm_Mask1.5mm  Fiducial_0.75mm_Mask1.5mm    64.3300   -77.4990    0.0000  bottom
 REF2      Fiducial_0.75mm_Mask1.5mm  Fiducial_0.75mm_Mask1.5mm   216.3400  -112.5290    0.0000  bottom
 REF3      Fiducial_0.75mm_Mask1.5mm  Fiducial_0.75mm_Mask1.5mm   117.4000   -94.2190    0.0000  bottom
 U1        USBLC6-2SC6                SOT-23-6                     84.5210   -91.2290   90.0000  bottom
-U2        LD1117S33TR_SOT223         SOT-223-3_TabPin2           119.1610  -102.4730    0.0000  bottom
-U3        STM32F072C8Tx              LQFP-48_7x7mm_P0.5mm        131.9040   -94.1890  225.0000  bottom
+U2        XC6206P332PR               SOT-89-3                    122.2700  -100.9690  180.0000  bottom
+U3        STM32F072CBT6              LQFP-48_7x7mm_P0.5mm        131.9040   -94.1890  225.0000  bottom
 ## End

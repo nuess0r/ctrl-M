@@ -16,5 +16,5 @@ Comment,Designator,Footprint,LCSC
 "120","R2,R3,R4","Resistor_SMD:R_0603_1608Metric",""
 "SW_Push","SW1","Button_Switch_THT_narrow:SW_SPST_UK_B0205-G4.3-B-250",""
 "USBLC6-2SC6","U1","Package_TO_SOT_SMD:SOT-23-6",""
-"LD1117S33TR_SOT223","U2","Package_TO_SOT_SMD:SOT-223-3_TabPin2",""
+"XC6206P332PR","U2","Package_TO_SOT_SMD:SOT-89-3",""
 "STM32F072CBT6","U3","Package_QFP:LQFP-48_7x7mm_P0.5mm",""
