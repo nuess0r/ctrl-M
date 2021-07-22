@@ -1,4 +1,4 @@
-### Module positions - created on Sat Mar 27 23:51:33 2021 ###
+### Module positions - created on Thu Jul 22 22:27:33 2021 ###
 ### Printed by Pcbnew version kicad 5.1.9+dfsg1-1
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -6,10 +6,10 @@
 C1        4.7u                       C_0805_2012Metric           116.3700  -100.2690   90.0000  bottom
 C2        100n                       C_0603_1608Metric           118.3700  -100.1690   90.0000  bottom
 C3        4.7u                       C_0805_2012Metric           126.3650  -103.3295  270.0000  bottom
-C4        100n                       C_0603_1608Metric           123.3200   -92.0915  270.0000  bottom
+C4        100n                       C_0603_1608Metric           123.3200   -91.9990  270.0000  bottom
 C5        100n                       C_0603_1608Metric           131.9240   -86.5015   90.0000  bottom
 C6        100n                       C_0603_1608Metric           134.3240  -101.2890    0.0000  bottom
-C7        100n                       C_0603_1608Metric           124.7775   -94.4625   90.0000  bottom
+C7        100n                       C_0603_1608Metric           124.9000   -94.4625   90.0000  bottom
 C8        10n                        C_0603_1608Metric           138.8110   -89.0015   90.0000  bottom
 R1        1k                         R_0603_1608Metric           108.7280   -81.7705   90.0000  bottom
 R2        120                        R_0603_1608Metric           174.7745   -98.6790  270.0000  bottom

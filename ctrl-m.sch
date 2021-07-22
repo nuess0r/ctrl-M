@@ -1260,14 +1260,6 @@ Wire Wire Line
 	1450 7350 1450 7400
 Wire Wire Line
 	1700 7350 1700 7400
-Wire Bus Line
-	9400 2500 9400 3400
-Wire Bus Line
-	7500 2500 7500 6200
-Wire Bus Line
-	4700 3350 4700 6200
-Wire Bus Line
-	9400 850  9400 2500
 $Comp
 L Regulator_Linear:HT75xx-1-SOT89 U2
 U 1 1 606051D6
@@ -1279,4 +1271,12 @@ F 3 "https://www.torexsemi.com/file/xc6206/XC6206.pdf" H 4300 1500 50  0001 C CN
 	1    4300 1400
 	1    0    0    -1  
 $EndComp
+Wire Bus Line
+	9400 2500 9400 3400
+Wire Bus Line
+	7500 2500 7500 6200
+Wire Bus Line
+	4700 3350 4700 6200
+Wire Bus Line
+	9400 850  9400 2500
 $EndSCHEMATC
