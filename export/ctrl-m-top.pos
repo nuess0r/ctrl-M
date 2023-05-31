@@ -1,6 +1,15 @@
-### Module positions - created on Thu Jul 22 22:27:33 2021 ###
-### Printed by Pcbnew version kicad 5.1.9+dfsg1-1
+### Module positions - created on Mi 31 Mai 2023 16:16:21 ###
+### Printed by Pcbnew version 6.0.11+dfsg-1
 ## Unit = mm, Angle = deg.
 ## Side : top
-# Ref     Val       Package                PosX       PosY       Rot  Side
+# Ref     Val                   Package                                   PosX       PosY       Rot  Side
+J1        USB_B                 USB_B_OST_USB-B1HSxx_Horizontal        81.0700   -85.0000   90.0000  top
+J2        Conn_ARM_JTAG_SWD_10  PinHeader_2x05_P1.27mm_Vertical       109.3470   -92.9640  180.0000  top
+J5        Conn_01x01            Blade_6.3mm_Horizontal                 78.0000  -110.4690    0.0000  top
+J7        Conn_01x16            TE_6-520315-6_1x16_P2.54mm_Vertical   152.6000   -80.0000  -90.0000  top
+J9        Conn_01x04            TE_5-520315-4_1x04_P2.54mm_Vertical   201.8800   -82.0000   90.0000  top
+J10       Conn_01x04            PinHeader_1x04_P2.54mm_Horizontal     221.0000   -99.8220    0.0000  top
+J11       Conn_01x05            PinHeader_1x05_P2.54mm_Vertical       113.2840   -85.0590    0.0000  top
+J12       Conn_01x04            TE_5-520315-4_1x04_P2.54mm_Vertical   207.2700   -92.2690  180.0000  top
+SW1       SW_Push               SW_SPST_UK_B0205-G4.3-B-250            92.4000   -80.5790  -90.0000  top
 ## End
