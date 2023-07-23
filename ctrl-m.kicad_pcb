@@ -3413,7 +3413,7 @@
 
   (footprint "MountingHole:MountingHole_2.1mm" locked (layer "F.Cu")
     (tedit 5B924765) (tstamp 681efc48-ba66-4c1a-a0ef-101ff6b0366e)
-    (at 87.9 88.199)
+    (at 87.9 87)
     (descr "Mounting Hole 2.1mm, no annular")
     (tags "mounting hole 2.1mm no annular")
     (property "Sheetfile" "/home/chrigi/Projects/Model M/ctrl-M/ctrl-m.sch")
